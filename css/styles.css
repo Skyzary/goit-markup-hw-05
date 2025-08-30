@@ -788,6 +788,9 @@ input {
 	letter-spacing: 0.04em;
 	color: rgba(46, 47, 66, 0.4);
 }
+.modal-text-area::placeholder {
+	color: #2E2F4266;
+}
 
 .modal-text-area:focus {
 	border: 1px solid #4d5ae5;
